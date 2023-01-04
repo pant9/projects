@@ -1,0 +1,10 @@
+body{
+  background-image: url("18.png");
+}
+h1 {border-style: solid;font-style: italic;font-size: 70px;text-align:center;
+background-color:#87CEFA;
+}
+h2 {font-size: 40px;text-align:center;background-color:#F0F8FF;
+}
+p {font-style: oblique;font-size: 25px;
+}

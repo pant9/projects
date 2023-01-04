@@ -1,0 +1,12 @@
+body 
+
+  {background-image: url("55555.jpg");
+}
+h1 {border-style: solid;font-style: oblique;font-size: 70px;text-align:center;
+background-color:#ff704d; 
+}
+
+p {font-style: italic;font-size: 25px;background-color: #b366ff;
+ }
+h2 {border-style: dotted;font-size: 40px;text-align:center;background-color: #e6ffb3;font-style: oblique;
+}

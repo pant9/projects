@@ -1,0 +1,13 @@
+body 
+
+  {background-image: url("wall3.jpg");
+}
+h1 {border-style: solid;font-style: italic;font-size: 70px;text-align:center;
+background-color:#ff99e6; 
+}
+
+h2 {border-style: dotted;font-size: 40px;text-align:center;background-color: #e6ffb3;font-style: oblique;
+}
+
+p {font-style: normal;font-size: 25px;background-color: #b3b3ff;
+ }
